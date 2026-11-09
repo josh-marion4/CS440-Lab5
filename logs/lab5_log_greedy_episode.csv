@@ -1,0 +1,9 @@
+Step,From,Action,Actual,To,Note,Reward,Total,Outcome
+1,"(0, 0)",right,right,"(0, 1)",,-0.04,-0.04,
+2,"(0, 1)",right,up,"(0, 1)",slipped stopped,-0.04,-0.08,
+3,"(0, 1)",right,down,"(0, 1)",slipped stopped,-0.04,-0.12,
+4,"(0, 1)",right,right,"(0, 2)",,-0.04,-0.16,
+5,"(0, 2)",right,right,"(0, 3)",,-0.04,-0.2,
+6,"(0, 3)",down,down,"(1, 3)",,-0.04,-0.24,
+7,"(1, 3)",down,down,"(2, 3)",,-0.04,-0.28,
+8,"(2, 3)",down,down,"(3, 3)",,9.96,9.68,RECHARGED at the charger
